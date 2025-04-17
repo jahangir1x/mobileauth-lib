@@ -1,9 +1,0 @@
-﻿namespace DemoMobileApp;
-
-public partial class AppShell : Shell
-{
-    public AppShell()
-    {
-        InitializeComponent();
-    }
-}
